@@ -2,6 +2,9 @@
 flash:
 	heimdall flash --RECOVERY twrp-3.4.0-0-j7elte.img
 
+heimdall-frontend:
+	heimdall-frontend
+
 
 # ADB: https://www.maketecheasier.com/common-adb-commands/
 
